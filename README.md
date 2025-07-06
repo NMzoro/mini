@@ -1,0 +1,3 @@
+# Mini-projet 3 : Jeu de Tic-Tac-Toe
+
+Le morpion est un jeu stratégique à deux participants se disputant une grille de 3 cases sur 3. L’objectif est de placer trois marques identiques horizontalement, verticalement ou en diagonale. Ce projet propose de concevoir une version numérique avec Prolog pour la gestion des règles du jeu. Un algorithme MiniMax y est intégré afin d’optimiser les décisions de l’adversaire virtuel.
